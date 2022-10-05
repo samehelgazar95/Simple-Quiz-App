@@ -1,0 +1,74 @@
+[
+  {
+    "title": "01 - Why we use <br> element?",
+    "answer_1": "To make text Bold",
+    "answer_2": "To make text Italic",
+    "answer_3": "To add breakline",
+    "answer_4": "To create horizontal line",
+    "right_answer": "To add breakline"
+  },
+  {
+    "title": "02 - Is <img> element has attribute href?",
+    "answer_1": "Yes",
+    "answer_2": "No, it for anchor tag <a>",
+    "answer_3": "All elements has href attribute",
+    "answer_4": "Answer 1 and 3 are right",
+    "right_answer": "No, it for anchor tag <a>"
+  },
+  {
+    "title": "03 - How can we make element text bold?",
+    "answer_1": "Putting it inside <b> tag",
+    "answer_2": "Putting it inside <strong> tag",
+    "answer_3": "Customizing it with font-weight property in CSS",
+    "answer_4": "All are right",
+    "right_answer": "All are right"
+  },
+  {
+    "title": "04 - What is the right hierarchy for creating part of page?",
+    "answer_1": "<h2> then <p> then <h1> then <p> then <h3> then <p> then <img>",
+    "answer_2": "<h1> then <p> then <h3> then <p> then <h2> then <p> then <img>",
+    "answer_3": "<h2> then <p> then <h3> then <p> then <h2> then <p> then <img>",
+    "answer_4": "All are wrong",
+    "right_answer": "All are wrong"
+  },
+  {
+    "title": "05 - How can we include external page inside our HTML page?",
+    "answer_1": "By using <include> tag in HTML",
+    "answer_2": "By using <Load> tag in HTML",
+    "answer_3": "By using <iframe> tag in HTML",
+    "answer_4": "All solutions are wrong",
+    "right_answer": "By using <iframe> tag in HTML"
+  },
+  {
+    "title": "06 - What is the tag that not exists in HTML?",
+    "answer_1": "<object>",
+    "answer_2": "<basefont>",
+    "answer_3": "<abbr>",
+    "answer_4": "All tags exist on HTML",
+    "right_answer": "All tags exist on HTML"
+  },
+  {
+    "title": "07 - How we specify document type of HTML5 page?",
+    "answer_1": "<DOCTYPE html>",
+    "answer_2": "<DOCTYPE html5>",
+    "answer_3": "<!DOCTYPE html5>",
+    "answer_4": "<!DOCTYPE html>",
+    "right_answer": "<!DOCTYPE html>"
+  },
+  {
+    "title": "08 - What is the element that's not exists in HTML semantics?",
+    "answer_1": "<aricle>",
+    "answer_2": "<section>",
+    "answer_3": "<blockquote>",
+    "answer_4": "<aside>",
+    "right_answer": "<blockquote>"
+  },
+  {
+    "title": "09 - In HTML can we use this way to add attributes",
+    "answer_1": "<div class='class-name'>",
+    "answer_2": "<div class=class-name>",
+    "answer_3": "<div class=\"class-name\">",
+    "answer_4": "All are right",
+    "right_answer": "All are right"
+  }
+]
